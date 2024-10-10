@@ -18,11 +18,11 @@
 kubectl create -f nginx-deployment.yaml
 
 # Method 2: Generate deployment YAML using dry-run
-# This creates a YAML template without actually deploying to the cluster
+# This creates a YAML template without actually deploying to the cluster (will help in CKA exam)
 kubectl create deployment nginx-deployment --image=nginx:latest --replicas=3 --port=80 --dry-run=client -o yaml > nginx-deployment.yaml
 
 # Method 3: Create deployment directly using imperative command
-# Quick deployment method without requiring a YAML file
+# Quick deployment method without requiring a YAML file (will help in CKA exam)
 kubectl create deployment nginx-deployment --image=nginx:latest --replicas=3 --port=80
 
 #------------------------------------------------------------------------------
