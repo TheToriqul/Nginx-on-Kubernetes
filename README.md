@@ -114,18 +114,3 @@ To build upon this foundation, I plan to explore:
 ---
 
 Feel free to explore, modify, and build upon this configuration as part of my learning journey. You're also welcome to learn from it, and I wish you the best of luck!
-
-
-
-
-
-# 🚀 Learning Kubernetes Deployments with Nginx
-[![GitHub](https://img.shields.io/badge/GitHub-Nginx--on--Kubernetes-blue?style=flat&logo=github)](https://github.com/TheToriqul/Nginx-on-Kubernetes)
-[![GitHub stars](https://img.shields.io/github/stars/TheToriqul/Nginx-on-Kubernetes?style=social)](https://github.com/TheToriqul/Nginx-on-Kubernetes/stargazers)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-
-## 📋 Learning Overview
-This project represents my journey in mastering Kubernetes Deployments using Nginx as a practical example. Through this hands-on experience, I've gained comprehensive understanding of container orchestration, deployment strategies, and production-ready configurations in Kubernetes environments.
-
