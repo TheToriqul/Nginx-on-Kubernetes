@@ -11,7 +11,7 @@ Through this project, I've learned how Deployments manage sets of identical pods
 <figure>
  <p align="center">
      <img src="./assets/architecture.png" alt="project architecture" />
-     <p align="center"><strong>Fig: Project architecture diagram and workflow</strong> (Another very simple architecture available in the assets folder)</p> 
+     <p align="center"><strong>Fig: Project architecture diagram and workflow</strong> (Another very simple architecture available in the assets directory)</p> 
  </p>
 </figure>
 
